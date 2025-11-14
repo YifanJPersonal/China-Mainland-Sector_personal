@@ -17,7 +17,6 @@
 15. 更改Profile的OBS席位，修复OBS权限错误
 16. 修改塔台的prf打开错误
 17. 更新README
-18. 删除关于sktlite的内容
 19. 更新.gitignore
 20. 更新ip_address、删除微信赞助图
 21. 更新AircraftPerformance.txt的版权声明
