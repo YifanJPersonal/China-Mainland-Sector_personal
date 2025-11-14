@@ -1,3 +1,8 @@
+# update.py
+update.py
+/Sectors/**/*.sct
+/Sectors/**/*.ese
+
 .sentry-native/
 *.rwy
 version.txt
