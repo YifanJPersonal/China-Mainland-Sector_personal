@@ -1,4 +1,5 @@
-/Sectors/*
+/Sectors/**/*.sct
+/Sectors/**/*.ese
 
 .sentry-native/
 *.rwy

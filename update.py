@@ -153,24 +153,24 @@ def append_freetext_to_ese_files(source_ese_files, target_sectors_dir, target_di
     return appended_count
 
 
-def extract_info_section(content, file_path):
-    """
-    从内容中提取[INFO]到[AIRPORT]之间的部分（不包括[AIRPORT]）
-    """
-    # 使用正则表达式匹配[INFO]到[AIRPORT]之间的内容
-    pattern = r'\[INFO\]\s*(.*?)\s*\[AIRPORT\]'
-    match = re.search(pattern, content, re.DOTALL)
-
-    if match:
-        info_content = match.group(1).strip()
-        print(f"  从 {file_path} 提取的 [INFO] 内容:")
-        print(f"  --- 开始 ---")
-        print(info_content)
-        print(f"  --- 结束 ---")
-        return info_content
-    else:
-        print(f"  警告: 在 {file_path} 中未找到 [INFO] 到 [AIRPORT] 的标记")
-        return None
+# def extract_info_section(content, file_path):
+#     """
+#     从内容中提取[INFO]到[AIRPORT]之间的部分（不包括[AIRPORT]）
+#     """
+#     # 使用正则表达式匹配[INFO]到[AIRPORT]之间的内容
+#     pattern = r'\[INFO\]\s*(.*?)\s*\[AIRPORT\]'
+#     match = re.search(pattern, content, re.DOTALL)
+#
+#     if match:
+#         info_content = match.group(1).strip()
+#         print(f"  从 {file_path} 提取的 [INFO] 内容:")
+#         print(f"  --- 开始 ---")
+#         print(info_content)
+#         print(f"  --- 结束 ---")
+#         return info_content
+#     else:
+#         print(f"  警告: 在 {file_path} 中未找到 [INFO] 到 [AIRPORT] 的标记")
+#         return None
 
 
 def find_sct_files(base_path):
