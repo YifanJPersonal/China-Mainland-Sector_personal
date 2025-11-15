@@ -1,265 +1,368 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-
-Runways:ZGDY 张家界/荷花 ZHANGJIAJIE/Hehua 08-26:centerline
+SECTORFILE:
+SECTORTITLE:
+Airports:VMMC:symbol
 Airports:ZGDY:symbol
-Runways:ZGGG 广州/白云 GUANGZHOU/Baiyun 01-19:centerline
-Runways:ZGGG 广州/白云 GUANGZHOU/Baiyun 02L-20R:centerline
-Runways:ZGGG 广州/白云 GUANGZHOU/Baiyun 02R-20L:centerline
 Airports:ZGGG:symbol
-Runways:ZGHA 长沙/黄花 CHANGSHA/Huanghua 18L-36R:centerline
-Runways:ZGHA 长沙/黄花 CHANGSHA/Huanghua 18R-36L:centerline
 Airports:ZGHA:symbol
-Runways:ZGKL 桂林/两江 GUILIN/Liangjiang 01-19:centerline
 Airports:ZGKL:symbol
-Runways:ZGNN 南宁/吴圩 NANNING/Wuxu 05-23:centerline
 Airports:ZGNN:symbol
-Runways:ZGOW 揭阳/潮汕 JIEYANG/Chaoshan 04-22:centerline
 Airports:ZGOW:symbol
-Runways:ZGSZ 深圳/宝安 SHENZHEN/Baoan 15-33:centerline
-Runways:ZGSZ 深圳/宝安 SHENZHEN/Baoan 16-34:centerline
 Airports:ZGSZ:symbol
-Runways:ZHEC HUAHU 01L-19R:centerline
-Runways:ZHEC HUAHU 01R-19L:centerline
+Airports:ZGZJ:symbol
 Airports:ZHEC:symbol
-Runways:ZHHH 武汉/天河 WUHAN/Tianhe 04L-22R:centerline
-Runways:ZHHH 武汉/天河 WUHAN/Tianhe 04R-22L:centerline
+Airports:ZHES:symbol
 Airports:ZHHH:symbol
-Runways:ZHXF LIUJI 01-19:centerline
-Airports:ZHXF:symbol
-Runways:ZHYC 宜昌/三峡 YICHANG/Sanxia 14-32:centerline
 Airports:ZHYC:symbol
-VORs:BHY:symbol
-VORs:BSE:symbol
-VORs:CEN:symbol
-VORs:CON:symbol
-VORs:CSS:symbol
-VORs:DTM:symbol
-VORs:DYG:symbol
-VORs:GLB:symbol
-VORs:GLN:symbol
-VORs:GYA:symbol
-VORs:HUY:symbol
-VORs:JCS:symbol
-VORs:KWL:symbol
-VORs:LBN:symbol
-VORs:LIG:symbol
-VORs:LIN:symbol
-VORs:LLC:symbol
-VORs:LMN:symbol
-VORs:LON:symbol
-VORs:LYH:symbol
-VORs:NLG:symbol
-VORs:NNX:symbol
-VORs:POU:symbol
-VORs:SHK:symbol
-VORs:SHL:symbol
-VORs:SJG:symbol
-VORs:SWA:symbol
-VORs:TAN:symbol
-VORs:WUY:symbol
-VORs:WYN:symbol
-VORs:YIN:symbol
-VORs:ZHJ:symbol
-VORs:ZUH:symbol
-VORs:DCD:symbol
-VORs:DHB:symbol
-VORs:DHP:symbol
-VORs:DJZ:symbol
-VORs:DSY:symbol
-VORs:DXY:symbol
-VORs:ENH:symbol
-VORs:FYG:symbol
-VORs:HOK:symbol
-VORs:KGF:symbol
-VORs:LKO:symbol
-VORs:MOU:symbol
-VORs:WHA:symbol
-VORs:WTM:symbol
-VORs:XGD:symbol
-VORs:XSH:symbol
-VORs:YIH:symbol
-VORs:PLT:symbol
-VORs:TRN:symbol
-NDBs:CD:symbol
-NDBs:FO:symbol
-NDBs:GJ:symbol
-NDBs:JW:symbol
-NDBs:JX:symbol
-NDBs:LH:symbol
-NDBs:PA:symbol
-NDBs:PS:symbol
-NDBs:Q:symbol
-NDBs:QP:symbol
-NDBs:SV:symbol
-NDBs:U:symbol
-NDBs:UJ:symbol
-NDBs:VQ:symbol
-NDBs:W:symbol
-NDBs:Y:symbol
-NDBs:ZK:symbol
-NDBs:HG:symbol
-NDBs:ML:symbol
-NDBs:NO:symbol
-NDBs:VL:symbol
+Airports:ZJHK:symbol
+Airports:ZSCN:symbol
+Airports:ZSOF:symbol
+Airports:ZSWA:symbol
+Airports:ZUGY:symbol
 Fixes:ABTUD:symbol
 Fixes:ADBIN:symbol
+Fixes:ADGOL:symbol
+Fixes:ADKUN:symbol
+Fixes:AGPOR:symbol
 Fixes:AGRAV:symbol
+Fixes:AGTAP:symbol
+Fixes:AGTEL:symbol
+Fixes:AGTIS:symbol
+Fixes:AGTOB:symbol
+Fixes:AGUXI:symbol
 Fixes:AGVIL:symbol
 Fixes:AGVOS:symbol
+Fixes:AKAMI:symbol
 Fixes:AKNAV:symbol
+Fixes:AKNAX:symbol
 Fixes:AKUBA:symbol
+Fixes:ALBIG:symbol
 Fixes:ALEKI:symbol
 Fixes:ALGAG:symbol
+Fixes:ANISA:symbol
+Fixes:ANONU:symbol
+Fixes:ANPIM:symbol
+Fixes:ANPOG:symbol
+Fixes:APAKA:symbol
 Fixes:APESO:symbol
 Fixes:APUPA:symbol
-Fixes:ATAGA:symbol
+Fixes:ATIVU:symbol
+Fixes:ATKAV:symbol
 Fixes:ATLAT:symbol
+Fixes:ATLUT:symbol
+Fixes:ATSUD:symbol
+Fixes:ATVIM:symbol
 Fixes:AVBEP:symbol
+Fixes:AVBOB:symbol
+Fixes:AVDIP:symbol
 Fixes:AVDOK:symbol
 Fixes:AVGUT:symbol
 Fixes:AVKOK:symbol
+Fixes:AVLEN:symbol
+Fixes:AVLOG:symbol
 Fixes:AVMAD:symbol
 Fixes:AVNEL:symbol
 Fixes:AVPAM:symbol
 Fixes:BEBEM:symbol
 Fixes:BEKOL:symbol
 Fixes:BEMAG:symbol
+Fixes:BENBI:symbol
+Fixes:BIGEX:symbol
 Fixes:BIGRO:symbol
 Fixes:BIGVI:symbol
-Fixes:BILAT:symbol
+Fixes:BINUS:symbol
+Fixes:BIPIM:symbol
+Fixes:BIPIP:symbol
 Fixes:BIPOP:symbol
+Fixes:BIRIR:symbol
 Fixes:BIVAV:symbol
+Fixes:BIVIP:symbol
 Fixes:BODUV:symbol
 Fixes:BOKAT:symbol
+Fixes:BOVMA:symbol
 Fixes:BUBDA:symbol
+Fixes:BURGI:symbol
 Fixes:DABER:symbol
+Fixes:DABUB:symbol
+Fixes:DAGBU:symbol
+Fixes:DAGVO:symbol
 Fixes:DAKOR:symbol
-Fixes:DBDNG:symbol
+Fixes:DALEP:symbol
+Fixes:DAMEG:symbol
+Fixes:DAPRO:symbol
+Fixes:DELEG:symbol
+Fixes:DOBVI:symbol
+Fixes:DOMGO:symbol
+Fixes:DOPKU:symbol
 Fixes:DOPNI:symbol
 Fixes:DOTMI:symbol
+Fixes:DUBAS:symbol
+Fixes:DUBNA:symbol
 Fixes:DUDIT:symbol
+Fixes:DUMUV:symbol
+Fixes:EGARA:symbol
 Fixes:EGEDA:symbol
+Fixes:EKADI:symbol
+Fixes:ELBAV:symbol
 Fixes:ELKAL:symbol
+Fixes:ELRER:symbol
+Fixes:EMRAL:symbol
+Fixes:EMVIL:symbol
 Fixes:EMVUT:symbol
 Fixes:ENKUS:symbol
+Fixes:ENLAB:symbol
+Fixes:ENSIX:symbol
+Fixes:ENSOX:symbol
 Fixes:ENVIP:symbol
+Fixes:EPDIX:symbol
+Fixes:EPGAL:symbol
 Fixes:ESBIX:symbol
+Fixes:ESDOS:symbol
+Fixes:ESKAM:symbol
+Fixes:ESLIR:symbol
+Fixes:ESMEB:symbol
+Fixes:ESNIB:symbol
 Fixes:EXURI:symbol
 Fixes:FUSU:symbol
+Fixes:GAMBA:symbol
 Fixes:GIVIV:symbol
+Fixes:GOSMA:symbol
 Fixes:GUBLO:symbol
 Fixes:GUDRO:symbol
+Fixes:GUGAM:symbol
+Fixes:GUKEX:symbol
+Fixes:GUKVO:symbol
+Fixes:GULUN:symbol
 Fixes:GURIN:symbol
 Fixes:GUSIV:symbol
+Fixes:GUTGO:symbol
+Fixes:GUXUV:symbol
 Fixes:HA310:symbol
 Fixes:HA350:symbol
 Fixes:IDAXI:symbol
 Fixes:IDEPO:symbol
+Fixes:IDGAG:symbol
+Fixes:IDNUS:symbol
+Fixes:IDPOG:symbol
+Fixes:IDSEG:symbol
 Fixes:IDUMA:symbol
+Fixes:IDUPU:symbol
 Fixes:IGAGA:symbol
+Fixes:IGBAB:symbol
+Fixes:IGDEN:symbol
+Fixes:IGEDU:symbol
+Fixes:IGITA:symbol
 Fixes:IGIVI:symbol
+Fixes:IGLUD:symbol
 Fixes:IGNEG:symbol
+Fixes:IGNIK:symbol
 Fixes:IGONO:symbol
 Fixes:IGPAR:symbol
+Fixes:IGPUK:symbol
+Fixes:IKATA:symbol
 Fixes:IKAVO:symbol
+Fixes:IKUBA:symbol
 Fixes:IKULI:symbol
 Fixes:IPMUG:symbol
+Fixes:IRNOL:symbol
 Fixes:IRSAS:symbol
 Fixes:IRTAT:symbol
+Fixes:IRVED:symbol
 Fixes:ISBIG:symbol
 Fixes:ISGEG:symbol
 Fixes:ISLOM:symbol
 Fixes:ISMED:symbol
+Fixes:ISNEB:symbol
+Fixes:IVPUB:symbol
+Fixes:IVTEX:symbol
+Fixes:KAGRA:symbol
+Fixes:KAGVO:symbol
+Fixes:KAKSU:symbol
 Fixes:KALMU:symbol
+Fixes:KAMDA:symbol
 Fixes:KEVAR:symbol
 Fixes:KIBAS:symbol
+Fixes:KIGUM:symbol
+Fixes:KIKEG:symbol
+Fixes:KIMOG:symbol
 Fixes:LAGEX:symbol
-Fixes:LANDA:symbol
+Fixes:LAPEN:symbol
+Fixes:LAPUG:symbol
 Fixes:LATOP:symbol
+Fixes:LEBIK:symbol
+Fixes:LEBIV:symbol
+Fixes:LEGIV:symbol
+Fixes:LEKUV:symbol
+Fixes:LELIM:symbol
 Fixes:LENAD:symbol
+Fixes:LEPMI:symbol
 Fixes:LIDLU:symbol
+Fixes:LIDMA:symbol
+Fixes:LIKRI:symbol
 Fixes:LIPNO:symbol
 Fixes:LOVTA:symbol
+Fixes:LUAN:symbol
 Fixes:LUMKO:symbol
 Fixes:LUMLU:symbol
 Fixes:LUPVU:symbol
 Fixes:MABAG:symbol
+Fixes:MADUK:symbol
+Fixes:MAGLI:symbol
 Fixes:MAKLA:symbol
 Fixes:MAMSI:symbol
 Fixes:MASGU:symbol
+Fixes:MASRO:symbol
+Fixes:MEGOB:symbol
+Fixes:MEMAG:symbol
 Fixes:MEPAN:symbol
+Fixes:MEVUL:symbol
 Fixes:MEXON:symbol
+Fixes:MIDOX:symbol
 Fixes:MIKIP:symbol
 Fixes:MILOP:symbol
 Fixes:MIPAG:symbol
 Fixes:MOLSO:symbol
 Fixes:MOTOM:symbol
 Fixes:MUBEL:symbol
+Fixes:MUBLO:symbol
+Fixes:MUGNU:symbol
 Fixes:NIKUK:symbol
 Fixes:NIPIM:symbol
+Fixes:NIVUV:symbol
+Fixes:NOBEM:symbol
+Fixes:NODIM:symbol
+Fixes:NOKUL:symbol
 Fixes:NOLON:symbol
 Fixes:NOMAR:symbol
 Fixes:NOMUK:symbol
+Fixes:NONEM:symbol
+Fixes:NUMKU:symbol
 Fixes:NUPTI:symbol
 Fixes:NUSLA:symbol
+Fixes:NUSPA:symbol
 Fixes:NUVGA:symbol
+Fixes:OBDON:symbol
 Fixes:OBLAN:symbol
+Fixes:OBLIK:symbol
 Fixes:OBLUV:symbol
+Fixes:ODODU:symbol
 Fixes:ODOPI:symbol
+Fixes:OLDAX:symbol
+Fixes:OLDID:symbol
+Fixes:OLMIB:symbol
 Fixes:OLPAB:symbol
+Fixes:OLPOV:symbol
 Fixes:OLTOL:symbol
 Fixes:OLTUS:symbol
 Fixes:OMBEB:symbol
 Fixes:OMGIB:symbol
+Fixes:OMKOB:symbol
+Fixes:OMLAP:symbol
 Fixes:ONEMI:symbol
+Fixes:ONUDU:symbol
 Fixes:OPENU:symbol
 Fixes:OPIXU:symbol
 Fixes:OPORU:symbol
 Fixes:OPUNI:symbol
+Fixes:OREVO:symbol
 Fixes:OSIKA:symbol
+Fixes:OSIRU:symbol
 Fixes:OSNOV:symbol
+Fixes:OSONO:symbol
+Fixes:OSREK:symbol
+Fixes:OSRIV:symbol
+Fixes:OTBUG:symbol
 Fixes:OVGOT:symbol
+Fixes:OVLAR:symbol
 Fixes:OVLUG:symbol
 Fixes:OVTAN:symbol
 Fixes:OVTIX:symbol
 Fixes:OW565:symbol
 Fixes:OW566:symbol
 Fixes:OW567:symbol
+Fixes:P321:symbol
+Fixes:P37:symbol
+Fixes:P566:symbol
 Fixes:PAKPU:symbol
+Fixes:PANBO:symbol
+Fixes:PATVO:symbol
+Fixes:PAVPA:symbol
 Fixes:PAVTU:symbol
 Fixes:PEDMU:symbol
-Fixes:PEGDU:symbol
+Fixes:PEXEK:symbol
 Fixes:PEXID:symbol
+Fixes:PONEP:symbol
+Fixes:PONUD:symbol
+Fixes:POPOM:symbol
+Fixes:PORAP:symbol
+Fixes:POVUN:symbol
 Fixes:POXIB:symbol
 Fixes:PUBIK:symbol
+Fixes:PUGIN:symbol
+Fixes:PULES:symbol
 Fixes:PUNIR:symbol
+Fixes:RAGSO:symbol
 Fixes:REBIS:symbol
 Fixes:REKSO:symbol
+Fixes:REPUV:symbol
+Fixes:REVKU:symbol
 Fixes:RIKMO:symbol
 Fixes:RUKLI:symbol
+Fixes:RULOR:symbol
+Fixes:RUNEG:symbol
+Fixes:RUNEK:symbol
+Fixes:RUPIL:symbol
 Fixes:RUSES:symbol
+Fixes:RUXIL:symbol
+Fixes:SAGUD:symbol
 Fixes:SALIV:symbol
-Fixes:SANIP:symbol
+Fixes:SALUG:symbol
+Fixes:SAMAS:symbol
+Fixes:SAPUT:symbol
 Fixes:SAREX:symbol
+Fixes:SARID:symbol
 Fixes:SARUG:symbol
 Fixes:SEBMO:symbol
+Fixes:SEGPI:symbol
 Fixes:SIERA:symbol
 Fixes:SIKOU:symbol
+Fixes:SOSNU:symbol
+Fixes:SOVGI:symbol
 Fixes:SULAS:symbol
 Fixes:SUMDO:symbol
 Fixes:SUMIB:symbol
+Fixes:SUMUN:symbol
+Fixes:SUNBO:symbol
 Fixes:TAMOT:symbol
+Fixes:TAVAB:symbol
+Fixes:TAXOR:symbol
 Fixes:TEBAK:symbol
+Fixes:TEBON:symbol
 Fixes:TEPID:symbol
+Fixes:TEPIT:symbol
+Fixes:TEPOT:symbol
 Fixes:TESIL:symbol
+Fixes:TIKME:symbol
+Fixes:TOGOG:symbol
+Fixes:TOLAK:symbol
 Fixes:TOMUD:symbol
+Fixes:TOSIM:symbol
+Fixes:TULMU:symbol
+Fixes:TUTKI:symbol
+Fixes:UBDID:symbol
 Fixes:UBDOB:symbol
+Fixes:UBGUP:symbol
+Fixes:UBKOX:symbol
 Fixes:UBLIM:symbol
 Fixes:UBMOG:symbol
+Fixes:UBSIR:symbol
+Fixes:UBTAG:symbol
+Fixes:UDUMI:symbol
 Fixes:UDUTI:symbol
 Fixes:UGRIG:symbol
+Fixes:UGUGU:symbol
 Fixes:UKBOL:symbol
 Fixes:UKLUK:symbol
 Fixes:UKMA2:symbol
@@ -268,105 +371,47 @@ Fixes:UKMA4:symbol
 Fixes:UKMA5:symbol
 Fixes:UKMA6:symbol
 Fixes:UKMAX:symbol
+Fixes:UNTIN:symbol
+Fixes:UPGUR:symbol
+Fixes:UPKUS:symbol
+Fixes:UPLEL:symbol
+Fixes:UPMAT:symbol
+Fixes:UPMIP:symbol
+Fixes:UPRIK:symbol
+Fixes:UPRIS:symbol
+Fixes:URGEB:symbol
+Fixes:URGIX:symbol
 Fixes:UVUNO:symbol
+Fixes:UXALO:symbol
+Fixes:UXAXU:symbol
+Fixes:VADBU:symbol
 Fixes:VAKDO:symbol
 Fixes:VAKVU:symbol
 Fixes:VANPI:symbol
 Fixes:VAPNA:symbol
+Fixes:VARDU:symbol
 Fixes:VAVSO:symbol
+Fixes:VEMEX:symbol
 Fixes:VESUX:symbol
 Fixes:VETIB:symbol
+Fixes:VEXAN:symbol
 Fixes:VIBOS:symbol
+Fixes:VIBUB:symbol
+Fixes:VIDOM:symbol
+Fixes:VIGAN:symbol
 Fixes:VIGIS:symbol
 Fixes:VIKEB:symbol
+Fixes:VILID:symbol
+Fixes:VIMAK:symbol
 Fixes:VIMEN:symbol
+Fixes:VINEX:symbol
 Fixes:VIPAP:symbol
 Fixes:XEBUL:symbol
+Fixes:XELOV:symbol
 Fixes:XEREN:symbol
 Fixes:XINUL:symbol
 Fixes:XOLON:symbol
 Fixes:XOPEK:symbol
-Fixes:ZGZX:symbol
-Fixes:ZUH27/ZG:symbol
-Fixes:ZUH75:symbol
-Fixes:AGUXI:symbol
-Fixes:ATSUD:symbol
-Fixes:AVLEN:symbol
-Fixes:BENBI:symbol
-Fixes:BIVIP:symbol
-Fixes:DAMEG:symbol
-Fixes:DAPRO:symbol
-Fixes:DELEG:symbol
-Fixes:DUBAS:symbol
-Fixes:DUBNA:symbol
-Fixes:EMVIL:symbol
-Fixes:ENLAB:symbol
-Fixes:ENSOX:symbol
-Fixes:ESDOS:symbol
-Fixes:ESKAM:symbol
-Fixes:ESMEB:symbol
-Fixes:GOSMA:symbol
-Fixes:GUGAM:symbol
-Fixes:GUKEX:symbol
-Fixes:GUKVO:symbol
-Fixes:IDGAG:symbol
-Fixes:IDNUS:symbol
-Fixes:IDPOG:symbol
-Fixes:IGEDU:symbol
-Fixes:IGITA:symbol
-Fixes:IGNIK:symbol
-Fixes:IKUBA:symbol
-Fixes:KAKSU:symbol
-Fixes:MEGOB:symbol
-Fixes:NIVUV:symbol
-Fixes:NODIM:symbol
-Fixes:OBDON:symbol
-Fixes:OBLIK:symbol
-Fixes:OLMIB:symbol
-Fixes:OLPOV:symbol
-Fixes:ONUDU:symbol
-Fixes:OSIRU:symbol
-Fixes:OSREK:symbol
-Fixes:OTBUG:symbol
-Fixes:OVLAR:symbol
-Fixes:P403:symbol
-Fixes:PAVPA:symbol
-Fixes:POVUN:symbol
-Fixes:REPUV:symbol
-Fixes:REVKU:symbol
-Fixes:RUXIL:symbol
-Fixes:SAGUD:symbol
-Fixes:SALUG:symbol
-Fixes:TIKME:symbol
-Fixes:UBKOX:symbol
-Fixes:UBTAG:symbol
-Fixes:UDUMI:symbol
-Fixes:UNTIN:symbol
-Fixes:UPGUR:symbol
-Fixes:UPMAT:symbol
-Fixes:URGEB:symbol
-Fixes:VADBU:symbol
-Fixes:VARDU:symbol
-Fixes:VEXAN:symbol
-Fixes:VIBUB:symbol
-Fixes:VIMAK:symbol
-Fixes:AGTEL:symbol
-Fixes:DOMGO:symbol
-Fixes:RUNEG:symbol
-Fixes:SAMAS:symbol
-Fixes:DALEP:symbol
-Fixes:IKATA:symbol
-Fixes:IRNOL:symbol
-Fixes:JINGN:symbol
-Fixes:LEKUV:symbol
-Fixes:MIDOX:symbol
-Fixes:PANBO:symbol
-Fixes:PATVO:symbol
-Fixes:SAPUT:symbol
-Fixes:TULMU:symbol
-Fixes:MUGNU:symbol
-Fixes:PONEP:symbol
-Fixes:TOSIM:symbol
 High airways:A202:line
 High airways:A461:line
 High airways:A470:line
@@ -380,11 +425,11 @@ High airways:G471:line
 High airways:G586:line
 High airways:GYA01:line
 High airways:GYA03:line
-High airways:H48:line
-High airways:H76:line
-High airways:J101:line
-High airways:J103:line
+High airways:H2:line
 High airways:J104:line
+High airways:J119:line
+High airways:J258:line
+High airways:M503:line
 High airways:R200:line
 High airways:R339:line
 High airways:R343:line
@@ -397,10 +442,16 @@ High airways:V108:line
 High airways:V109:line
 High airways:V110:line
 High airways:V111:line
+High airways:V12:line
+High airways:V13:line
 High airways:V144:line
 High airways:V145:line
 High airways:V147:line
 High airways:V148:line
+High airways:V149:line
+High airways:V153:line
+High airways:V154:line
+High airways:V155:line
 High airways:V17:line
 High airways:V18:line
 High airways:V19:line
@@ -411,13 +462,13 @@ High airways:V35:line
 High airways:V36:line
 High airways:V37:line
 High airways:V38:line
+High airways:V39:line
 High airways:V41:line
 High airways:V5:line
 High airways:V51:line
-High airways:V512:line
 High airways:V52:line
 High airways:V571:line
-High airways:V601:line
+High airways:V64:line
 High airways:V65:line
 High airways:V66:line
 High airways:V78:line
@@ -427,18 +478,23 @@ High airways:V88:line
 High airways:W102:line
 High airways:W105:line
 High airways:W118:line
-High airways:W128:line
-High airways:W129:line
-High airways:W130:line
+High airways:W120:line
+High airways:W127:line
+High airways:W136:line
 High airways:W138:line
 High airways:W139:line
 High airways:W140:line
 High airways:W141:line
 High airways:W155:line
 High airways:W156:line
+High airways:W159:line
+High airways:W163:line
+High airways:W164:line
+High airways:W165:line
 High airways:W169:line
 High airways:W179:line
 High airways:W18:line
+High airways:W180:line
 High airways:W181:line
 High airways:W182:line
 High airways:W183:line
@@ -452,6 +508,7 @@ High airways:W21:line
 High airways:W22:line
 High airways:W222:line
 High airways:W223:line
+High airways:W224:line
 High airways:W226:line
 High airways:W227:line
 High airways:W23:line
@@ -460,25 +517,38 @@ High airways:W24:line
 High airways:W240:line
 High airways:W241:line
 High airways:W246:line
+High airways:W26:line
+High airways:W263:line
+High airways:W269:line
+High airways:W3:line
 High airways:W37:line
+High airways:W41:line
 High airways:W44:line
 High airways:W45:line
 High airways:W46:line
 High airways:W50:line
 High airways:W501:line
 High airways:W509:line
-High airways:W515:line
-High airways:W516:line
+High airways:W51:line
 High airways:W521:line
 High airways:W523:line
 High airways:W524:line
+High airways:W528:line
 High airways:W53:line
+High airways:W530:line
+High airways:W531:line
+High airways:W532:line
+High airways:W533:line
+High airways:W534:line
 High airways:W552:line
 High airways:W553:line
 High airways:W56:line
 High airways:W563:line
+High airways:W570:line
+High airways:W571:line
+High airways:W584:line
+High airways:W585:line
 High airways:W586:line
-High airways:W596:line
 High airways:W597:line
 High airways:W598:line
 High airways:W6:line
@@ -493,6 +563,7 @@ High airways:W615:line
 High airways:W616:line
 High airways:W617:line
 High airways:W618:line
+High airways:W636:line
 High airways:W667:line
 High airways:W668:line
 High airways:W669:line
@@ -504,27 +575,562 @@ High airways:W674:line
 High airways:W675:line
 High airways:W676:line
 High airways:W68:line
+High airways:W680:line
+High airways:W681:line
+High airways:W682:line
+High airways:W683:line
+High airways:W684:line
+High airways:W685:line
+High airways:W686:line
+High airways:W687:line
+High airways:W688:line
+High airways:W689:line
+High airways:W690:line
+High airways:W691:line
+High airways:W692:line
 High airways:W7:line
 High airways:W70:line
 High airways:W71:line
+High airways:W73:line
 High airways:W80:line
 High airways:W82:line
 High airways:W83:line
 High airways:W90:line
-
-
+NDBs:CD:symbol
+NDBs:GJ:symbol
+NDBs:HG:symbol
+NDBs:JW:symbol
+NDBs:JX:symbol
+NDBs:LH:symbol
+NDBs:NF:symbol
+NDBs:NO:symbol
+NDBs:PA:symbol
+NDBs:QP:symbol
+NDBs:SV:symbol
+NDBs:UJ:symbol
+NDBs:VL:symbol
+NDBs:VQ:symbol
+NDBs:W:symbol
+NDBs:WL:symbol
+NDBs:Y:symbol
+NDBs:ZK:symbol
+Runways:VMMC Macao Intl 16-34:centerline
+Runways:VMMC Macao Intl 16-34:extended centerline 1
+Runways:VMMC Macao Intl 16-34:extended centerline 1 left base
+Runways:VMMC Macao Intl 16-34:extended centerline 1 left ticks
+Runways:VMMC Macao Intl 16-34:extended centerline 1 left vectoring
+Runways:VMMC Macao Intl 16-34:extended centerline 1 right base
+Runways:VMMC Macao Intl 16-34:extended centerline 1 right ticks
+Runways:VMMC Macao Intl 16-34:extended centerline 1 right vectoring
+Runways:VMMC Macao Intl 16-34:extended centerline 2
+Runways:VMMC Macao Intl 16-34:extended centerline 2 left base
+Runways:VMMC Macao Intl 16-34:extended centerline 2 left ticks
+Runways:VMMC Macao Intl 16-34:extended centerline 2 left vectoring
+Runways:VMMC Macao Intl 16-34:extended centerline 2 right base
+Runways:VMMC Macao Intl 16-34:extended centerline 2 right ticks
+Runways:VMMC Macao Intl 16-34:extended centerline 2 right vectoring
+Runways:ZGDY Hehua 08-26:centerline
+Runways:ZGDY Hehua 08-26:extended centerline 1
+Runways:ZGDY Hehua 08-26:extended centerline 1 left base
+Runways:ZGDY Hehua 08-26:extended centerline 1 left ticks
+Runways:ZGDY Hehua 08-26:extended centerline 1 left vectoring
+Runways:ZGDY Hehua 08-26:extended centerline 1 right base
+Runways:ZGDY Hehua 08-26:extended centerline 1 right ticks
+Runways:ZGDY Hehua 08-26:extended centerline 1 right vectoring
+Runways:ZGDY Hehua 08-26:extended centerline 2
+Runways:ZGDY Hehua 08-26:extended centerline 2 left base
+Runways:ZGDY Hehua 08-26:extended centerline 2 left ticks
+Runways:ZGDY Hehua 08-26:extended centerline 2 left vectoring
+Runways:ZGDY Hehua 08-26:extended centerline 2 right base
+Runways:ZGDY Hehua 08-26:extended centerline 2 right ticks
+Runways:ZGDY Hehua 08-26:extended centerline 2 right vectoring
+Runways:ZGGG Baiyun 01L-19R:centerline
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1 left base
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1 left ticks
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1 left vectoring
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1 right base
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1 right ticks
+Runways:ZGGG Baiyun 01L-19R:extended centerline 1 right vectoring
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2 left base
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2 left ticks
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2 left vectoring
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2 right base
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2 right ticks
+Runways:ZGGG Baiyun 01L-19R:extended centerline 2 right vectoring
+Runways:ZGGG Baiyun 01R-19L:centerline
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1 left base
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1 left ticks
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1 left vectoring
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1 right base
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1 right ticks
+Runways:ZGGG Baiyun 01R-19L:extended centerline 1 right vectoring
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2 left base
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2 left ticks
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2 left vectoring
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2 right base
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2 right ticks
+Runways:ZGGG Baiyun 01R-19L:extended centerline 2 right vectoring
+Runways:ZGGG Baiyun 02L-20R:centerline
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1 left base
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1 left ticks
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1 left vectoring
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1 right base
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1 right ticks
+Runways:ZGGG Baiyun 02L-20R:extended centerline 1 right vectoring
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2 left base
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2 left ticks
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2 left vectoring
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2 right base
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2 right ticks
+Runways:ZGGG Baiyun 02L-20R:extended centerline 2 right vectoring
+Runways:ZGGG Baiyun 02R-20L:centerline
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1 left base
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1 left ticks
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1 left vectoring
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1 right base
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1 right ticks
+Runways:ZGGG Baiyun 02R-20L:extended centerline 1 right vectoring
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2 left base
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2 left ticks
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2 left vectoring
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2 right base
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2 right ticks
+Runways:ZGGG Baiyun 02R-20L:extended centerline 2 right vectoring
+Runways:ZGGG Baiyun 03-21:centerline
+Runways:ZGGG Baiyun 03-21:extended centerline 1
+Runways:ZGGG Baiyun 03-21:extended centerline 1 left base
+Runways:ZGGG Baiyun 03-21:extended centerline 1 left ticks
+Runways:ZGGG Baiyun 03-21:extended centerline 1 left vectoring
+Runways:ZGGG Baiyun 03-21:extended centerline 1 right base
+Runways:ZGGG Baiyun 03-21:extended centerline 1 right ticks
+Runways:ZGGG Baiyun 03-21:extended centerline 1 right vectoring
+Runways:ZGGG Baiyun 03-21:extended centerline 2
+Runways:ZGGG Baiyun 03-21:extended centerline 2 left base
+Runways:ZGGG Baiyun 03-21:extended centerline 2 left ticks
+Runways:ZGGG Baiyun 03-21:extended centerline 2 left vectoring
+Runways:ZGGG Baiyun 03-21:extended centerline 2 right base
+Runways:ZGGG Baiyun 03-21:extended centerline 2 right ticks
+Runways:ZGGG Baiyun 03-21:extended centerline 2 right vectoring
+Runways:ZGHA Huanghua 18L-36R:centerline
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1 left base
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1 left ticks
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1 left vectoring
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1 right base
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1 right ticks
+Runways:ZGHA Huanghua 18L-36R:extended centerline 1 right vectoring
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2 left base
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2 left ticks
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2 left vectoring
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2 right base
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2 right ticks
+Runways:ZGHA Huanghua 18L-36R:extended centerline 2 right vectoring
+Runways:ZGHA Huanghua 18R-36L:centerline
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1 left base
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1 left ticks
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1 left vectoring
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1 right base
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1 right ticks
+Runways:ZGHA Huanghua 18R-36L:extended centerline 1 right vectoring
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2 left base
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2 left ticks
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2 left vectoring
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2 right base
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2 right ticks
+Runways:ZGHA Huanghua 18R-36L:extended centerline 2 right vectoring
+Runways:ZGKL Liangjiang 01-19:centerline
+Runways:ZGKL Liangjiang 01-19:extended centerline 1
+Runways:ZGKL Liangjiang 01-19:extended centerline 1 left base
+Runways:ZGKL Liangjiang 01-19:extended centerline 1 left ticks
+Runways:ZGKL Liangjiang 01-19:extended centerline 1 left vectoring
+Runways:ZGKL Liangjiang 01-19:extended centerline 1 right base
+Runways:ZGKL Liangjiang 01-19:extended centerline 1 right ticks
+Runways:ZGKL Liangjiang 01-19:extended centerline 1 right vectoring
+Runways:ZGKL Liangjiang 01-19:extended centerline 2
+Runways:ZGKL Liangjiang 01-19:extended centerline 2 left base
+Runways:ZGKL Liangjiang 01-19:extended centerline 2 left ticks
+Runways:ZGKL Liangjiang 01-19:extended centerline 2 left vectoring
+Runways:ZGKL Liangjiang 01-19:extended centerline 2 right base
+Runways:ZGKL Liangjiang 01-19:extended centerline 2 right ticks
+Runways:ZGKL Liangjiang 01-19:extended centerline 2 right vectoring
+Runways:ZGNN Wuxu 05-23:centerline
+Runways:ZGNN Wuxu 05-23:extended centerline 1
+Runways:ZGNN Wuxu 05-23:extended centerline 1 left base
+Runways:ZGNN Wuxu 05-23:extended centerline 1 left ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 1 left vectoring
+Runways:ZGNN Wuxu 05-23:extended centerline 1 right base
+Runways:ZGNN Wuxu 05-23:extended centerline 1 right ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 1 right vectoring
+Runways:ZGNN Wuxu 05-23:extended centerline 2
+Runways:ZGNN Wuxu 05-23:extended centerline 2 left base
+Runways:ZGNN Wuxu 05-23:extended centerline 2 left ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 2 left vectoring
+Runways:ZGNN Wuxu 05-23:extended centerline 2 right base
+Runways:ZGNN Wuxu 05-23:extended centerline 2 right ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 2 right vectoring
+Runways:ZGOW Chaoshan 04-22:centerline
+Runways:ZGOW Chaoshan 04-22:extended centerline 1
+Runways:ZGOW Chaoshan 04-22:extended centerline 1 left base
+Runways:ZGOW Chaoshan 04-22:extended centerline 1 left ticks
+Runways:ZGOW Chaoshan 04-22:extended centerline 1 left vectoring
+Runways:ZGOW Chaoshan 04-22:extended centerline 1 right base
+Runways:ZGOW Chaoshan 04-22:extended centerline 1 right ticks
+Runways:ZGOW Chaoshan 04-22:extended centerline 1 right vectoring
+Runways:ZGOW Chaoshan 04-22:extended centerline 2
+Runways:ZGOW Chaoshan 04-22:extended centerline 2 left base
+Runways:ZGOW Chaoshan 04-22:extended centerline 2 left ticks
+Runways:ZGOW Chaoshan 04-22:extended centerline 2 left vectoring
+Runways:ZGOW Chaoshan 04-22:extended centerline 2 right base
+Runways:ZGOW Chaoshan 04-22:extended centerline 2 right ticks
+Runways:ZGOW Chaoshan 04-22:extended centerline 2 right vectoring
+Runways:ZGSZ Baoan 15-33:centerline
+Runways:ZGSZ Baoan 15-33:extended centerline 1
+Runways:ZGSZ Baoan 15-33:extended centerline 1 left base
+Runways:ZGSZ Baoan 15-33:extended centerline 1 left ticks
+Runways:ZGSZ Baoan 15-33:extended centerline 1 left vectoring
+Runways:ZGSZ Baoan 15-33:extended centerline 1 right base
+Runways:ZGSZ Baoan 15-33:extended centerline 1 right ticks
+Runways:ZGSZ Baoan 15-33:extended centerline 1 right vectoring
+Runways:ZGSZ Baoan 15-33:extended centerline 2
+Runways:ZGSZ Baoan 15-33:extended centerline 2 left base
+Runways:ZGSZ Baoan 15-33:extended centerline 2 left ticks
+Runways:ZGSZ Baoan 15-33:extended centerline 2 left vectoring
+Runways:ZGSZ Baoan 15-33:extended centerline 2 right base
+Runways:ZGSZ Baoan 15-33:extended centerline 2 right ticks
+Runways:ZGSZ Baoan 15-33:extended centerline 2 right vectoring
+Runways:ZGSZ Baoan 16-34:centerline
+Runways:ZGSZ Baoan 16-34:extended centerline 1
+Runways:ZGSZ Baoan 16-34:extended centerline 1 left base
+Runways:ZGSZ Baoan 16-34:extended centerline 1 left ticks
+Runways:ZGSZ Baoan 16-34:extended centerline 1 left vectoring
+Runways:ZGSZ Baoan 16-34:extended centerline 1 right base
+Runways:ZGSZ Baoan 16-34:extended centerline 1 right ticks
+Runways:ZGSZ Baoan 16-34:extended centerline 1 right vectoring
+Runways:ZGSZ Baoan 16-34:extended centerline 2
+Runways:ZGSZ Baoan 16-34:extended centerline 2 left base
+Runways:ZGSZ Baoan 16-34:extended centerline 2 left ticks
+Runways:ZGSZ Baoan 16-34:extended centerline 2 left vectoring
+Runways:ZGSZ Baoan 16-34:extended centerline 2 right base
+Runways:ZGSZ Baoan 16-34:extended centerline 2 right ticks
+Runways:ZGSZ Baoan 16-34:extended centerline 2 right vectoring
+Runways:ZGZJ Wuchuan 15-33:centerline
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 left base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 left ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 left vectoring
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 right base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 right ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 right vectoring
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 left base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 left ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 left vectoring
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 right base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 right ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 right vectoring
+Runways:ZHEC Huahu 01L-19R:centerline
+Runways:ZHEC Huahu 01L-19R:extended centerline 1
+Runways:ZHEC Huahu 01L-19R:extended centerline 1 left base
+Runways:ZHEC Huahu 01L-19R:extended centerline 1 left ticks
+Runways:ZHEC Huahu 01L-19R:extended centerline 1 left vectoring
+Runways:ZHEC Huahu 01L-19R:extended centerline 1 right base
+Runways:ZHEC Huahu 01L-19R:extended centerline 1 right ticks
+Runways:ZHEC Huahu 01L-19R:extended centerline 1 right vectoring
+Runways:ZHEC Huahu 01L-19R:extended centerline 2
+Runways:ZHEC Huahu 01L-19R:extended centerline 2 left base
+Runways:ZHEC Huahu 01L-19R:extended centerline 2 left ticks
+Runways:ZHEC Huahu 01L-19R:extended centerline 2 left vectoring
+Runways:ZHEC Huahu 01L-19R:extended centerline 2 right base
+Runways:ZHEC Huahu 01L-19R:extended centerline 2 right ticks
+Runways:ZHEC Huahu 01L-19R:extended centerline 2 right vectoring
+Runways:ZHEC Huahu 01R-19L:centerline
+Runways:ZHEC Huahu 01R-19L:extended centerline 1
+Runways:ZHEC Huahu 01R-19L:extended centerline 1 left base
+Runways:ZHEC Huahu 01R-19L:extended centerline 1 left ticks
+Runways:ZHEC Huahu 01R-19L:extended centerline 1 left vectoring
+Runways:ZHEC Huahu 01R-19L:extended centerline 1 right base
+Runways:ZHEC Huahu 01R-19L:extended centerline 1 right ticks
+Runways:ZHEC Huahu 01R-19L:extended centerline 1 right vectoring
+Runways:ZHEC Huahu 01R-19L:extended centerline 2
+Runways:ZHEC Huahu 01R-19L:extended centerline 2 left base
+Runways:ZHEC Huahu 01R-19L:extended centerline 2 left ticks
+Runways:ZHEC Huahu 01R-19L:extended centerline 2 left vectoring
+Runways:ZHEC Huahu 01R-19L:extended centerline 2 right base
+Runways:ZHEC Huahu 01R-19L:extended centerline 2 right ticks
+Runways:ZHEC Huahu 01R-19L:extended centerline 2 right vectoring
+Runways:ZHES Xujiaping 01-19:centerline
+Runways:ZHES Xujiaping 01-19:extended centerline 1
+Runways:ZHES Xujiaping 01-19:extended centerline 1 left base
+Runways:ZHES Xujiaping 01-19:extended centerline 1 left ticks
+Runways:ZHES Xujiaping 01-19:extended centerline 1 left vectoring
+Runways:ZHES Xujiaping 01-19:extended centerline 1 right base
+Runways:ZHES Xujiaping 01-19:extended centerline 1 right ticks
+Runways:ZHES Xujiaping 01-19:extended centerline 1 right vectoring
+Runways:ZHES Xujiaping 01-19:extended centerline 2
+Runways:ZHES Xujiaping 01-19:extended centerline 2 left base
+Runways:ZHES Xujiaping 01-19:extended centerline 2 left ticks
+Runways:ZHES Xujiaping 01-19:extended centerline 2 left vectoring
+Runways:ZHES Xujiaping 01-19:extended centerline 2 right base
+Runways:ZHES Xujiaping 01-19:extended centerline 2 right ticks
+Runways:ZHES Xujiaping 01-19:extended centerline 2 right vectoring
+Runways:ZHHH Tianhe 04-22:centerline
+Runways:ZHHH Tianhe 04-22:extended centerline 1
+Runways:ZHHH Tianhe 04-22:extended centerline 1 left base
+Runways:ZHHH Tianhe 04-22:extended centerline 1 left ticks
+Runways:ZHHH Tianhe 04-22:extended centerline 1 left vectoring
+Runways:ZHHH Tianhe 04-22:extended centerline 1 right base
+Runways:ZHHH Tianhe 04-22:extended centerline 1 right ticks
+Runways:ZHHH Tianhe 04-22:extended centerline 1 right vectoring
+Runways:ZHHH Tianhe 04-22:extended centerline 2
+Runways:ZHHH Tianhe 04-22:extended centerline 2 left base
+Runways:ZHHH Tianhe 04-22:extended centerline 2 left ticks
+Runways:ZHHH Tianhe 04-22:extended centerline 2 left vectoring
+Runways:ZHHH Tianhe 04-22:extended centerline 2 right base
+Runways:ZHHH Tianhe 04-22:extended centerline 2 right ticks
+Runways:ZHHH Tianhe 04-22:extended centerline 2 right vectoring
+Runways:ZHHH Tianhe 05L-23R:centerline
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1 left base
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1 left ticks
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1 left vectoring
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1 right base
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1 right ticks
+Runways:ZHHH Tianhe 05L-23R:extended centerline 1 right vectoring
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2 left base
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2 left ticks
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2 left vectoring
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2 right base
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2 right ticks
+Runways:ZHHH Tianhe 05L-23R:extended centerline 2 right vectoring
+Runways:ZHHH Tianhe 05R-23L:centerline
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1 left base
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1 left ticks
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1 left vectoring
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1 right base
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1 right ticks
+Runways:ZHHH Tianhe 05R-23L:extended centerline 1 right vectoring
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2 left base
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2 left ticks
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2 left vectoring
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2 right base
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2 right ticks
+Runways:ZHHH Tianhe 05R-23L:extended centerline 2 right vectoring
+Runways:ZHYC Sanxia 14-32:centerline
+Runways:ZHYC Sanxia 14-32:extended centerline 1
+Runways:ZHYC Sanxia 14-32:extended centerline 1 left base
+Runways:ZHYC Sanxia 14-32:extended centerline 1 left ticks
+Runways:ZHYC Sanxia 14-32:extended centerline 1 left vectoring
+Runways:ZHYC Sanxia 14-32:extended centerline 1 right base
+Runways:ZHYC Sanxia 14-32:extended centerline 1 right ticks
+Runways:ZHYC Sanxia 14-32:extended centerline 1 right vectoring
+Runways:ZHYC Sanxia 14-32:extended centerline 2
+Runways:ZHYC Sanxia 14-32:extended centerline 2 left base
+Runways:ZHYC Sanxia 14-32:extended centerline 2 left ticks
+Runways:ZHYC Sanxia 14-32:extended centerline 2 left vectoring
+Runways:ZHYC Sanxia 14-32:extended centerline 2 right base
+Runways:ZHYC Sanxia 14-32:extended centerline 2 right ticks
+Runways:ZHYC Sanxia 14-32:extended centerline 2 right vectoring
+Runways:ZJHK Meilan 09-27:centerline
+Runways:ZJHK Meilan 09-27:extended centerline 1
+Runways:ZJHK Meilan 09-27:extended centerline 1 left base
+Runways:ZJHK Meilan 09-27:extended centerline 1 left ticks
+Runways:ZJHK Meilan 09-27:extended centerline 1 left vectoring
+Runways:ZJHK Meilan 09-27:extended centerline 1 right base
+Runways:ZJHK Meilan 09-27:extended centerline 1 right ticks
+Runways:ZJHK Meilan 09-27:extended centerline 1 right vectoring
+Runways:ZJHK Meilan 09-27:extended centerline 2
+Runways:ZJHK Meilan 09-27:extended centerline 2 left base
+Runways:ZJHK Meilan 09-27:extended centerline 2 left ticks
+Runways:ZJHK Meilan 09-27:extended centerline 2 left vectoring
+Runways:ZJHK Meilan 09-27:extended centerline 2 right base
+Runways:ZJHK Meilan 09-27:extended centerline 2 right ticks
+Runways:ZJHK Meilan 09-27:extended centerline 2 right vectoring
+Runways:ZJHK Meilan 10-28:centerline
+Runways:ZJHK Meilan 10-28:extended centerline 1
+Runways:ZJHK Meilan 10-28:extended centerline 1 left base
+Runways:ZJHK Meilan 10-28:extended centerline 1 left ticks
+Runways:ZJHK Meilan 10-28:extended centerline 1 left vectoring
+Runways:ZJHK Meilan 10-28:extended centerline 1 right base
+Runways:ZJHK Meilan 10-28:extended centerline 1 right ticks
+Runways:ZJHK Meilan 10-28:extended centerline 1 right vectoring
+Runways:ZJHK Meilan 10-28:extended centerline 2
+Runways:ZJHK Meilan 10-28:extended centerline 2 left base
+Runways:ZJHK Meilan 10-28:extended centerline 2 left ticks
+Runways:ZJHK Meilan 10-28:extended centerline 2 left vectoring
+Runways:ZJHK Meilan 10-28:extended centerline 2 right base
+Runways:ZJHK Meilan 10-28:extended centerline 2 right ticks
+Runways:ZJHK Meilan 10-28:extended centerline 2 right vectoring
+Runways:ZSCN Changbei 03-21:centerline
+Runways:ZSCN Changbei 03-21:extended centerline 1
+Runways:ZSCN Changbei 03-21:extended centerline 1 left base
+Runways:ZSCN Changbei 03-21:extended centerline 1 left ticks
+Runways:ZSCN Changbei 03-21:extended centerline 1 left vectoring
+Runways:ZSCN Changbei 03-21:extended centerline 1 right base
+Runways:ZSCN Changbei 03-21:extended centerline 1 right ticks
+Runways:ZSCN Changbei 03-21:extended centerline 1 right vectoring
+Runways:ZSCN Changbei 03-21:extended centerline 2
+Runways:ZSCN Changbei 03-21:extended centerline 2 left base
+Runways:ZSCN Changbei 03-21:extended centerline 2 left ticks
+Runways:ZSCN Changbei 03-21:extended centerline 2 left vectoring
+Runways:ZSCN Changbei 03-21:extended centerline 2 right base
+Runways:ZSCN Changbei 03-21:extended centerline 2 right ticks
+Runways:ZSCN Changbei 03-21:extended centerline 2 right vectoring
+Runways:ZSOF Xinqiao 15-33:centerline
+Runways:ZSOF Xinqiao 15-33:extended centerline 1
+Runways:ZSOF Xinqiao 15-33:extended centerline 1 left base
+Runways:ZSOF Xinqiao 15-33:extended centerline 1 left ticks
+Runways:ZSOF Xinqiao 15-33:extended centerline 1 left vectoring
+Runways:ZSOF Xinqiao 15-33:extended centerline 1 right base
+Runways:ZSOF Xinqiao 15-33:extended centerline 1 right ticks
+Runways:ZSOF Xinqiao 15-33:extended centerline 1 right vectoring
+Runways:ZSOF Xinqiao 15-33:extended centerline 2
+Runways:ZSOF Xinqiao 15-33:extended centerline 2 left base
+Runways:ZSOF Xinqiao 15-33:extended centerline 2 left ticks
+Runways:ZSOF Xinqiao 15-33:extended centerline 2 left vectoring
+Runways:ZSOF Xinqiao 15-33:extended centerline 2 right base
+Runways:ZSOF Xinqiao 15-33:extended centerline 2 right ticks
+Runways:ZSOF Xinqiao 15-33:extended centerline 2 right vectoring
+Runways:ZSWA Xuanzhou 06-24:centerline
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1 left base
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1 left ticks
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1 left vectoring
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1 right base
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1 right ticks
+Runways:ZSWA Xuanzhou 06-24:extended centerline 1 right vectoring
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2 left base
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2 left ticks
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2 left vectoring
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2 right base
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2 right ticks
+Runways:ZSWA Xuanzhou 06-24:extended centerline 2 right vectoring
+Runways:ZUGY Longdongbao 01L-19R:centerline
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1 left base
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1 left ticks
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1 left vectoring
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1 right base
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1 right ticks
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 1 right vectoring
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2 left base
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2 left ticks
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2 left vectoring
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2 right base
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2 right ticks
+Runways:ZUGY Longdongbao 01L-19R:extended centerline 2 right vectoring
+Runways:ZUGY Longdongbao 01R-19L:centerline
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1 left base
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1 left ticks
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1 left vectoring
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1 right base
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1 right ticks
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 1 right vectoring
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2 left base
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2 left ticks
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2 left vectoring
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2 right base
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2 right ticks
+Runways:ZUGY Longdongbao 01R-19L:extended centerline 2 right vectoring
+VORs:BHY:symbol
+VORs:BSE:symbol
+VORs:CEN:symbol
+VORs:CON:symbol
+VORs:CSS:symbol
+VORs:DBA:symbol
+VORs:DCD:symbol
+VORs:DHB:symbol
+VORs:DHP:symbol
+VORs:DJZ:symbol
+VORs:DSY:symbol
+VORs:DTM:symbol
+VORs:DYG:symbol
+VORs:DYK:symbol
+VORs:ENH:symbol
+VORs:GLB:symbol
+VORs:GLN:symbol
+VORs:GYA:symbol
+VORs:HFC:symbol
+VORs:HFE:symbol
+VORs:HOK:symbol
+VORs:HUY:symbol
+VORs:JCS:symbol
+VORs:JHS:symbol
+VORs:KGF:symbol
+VORs:KHN:symbol
+VORs:KHP:symbol
+VORs:KWE:symbol
+VORs:KWL:symbol
+VORs:LBN:symbol
+VORs:LIG:symbol
+VORs:LIN:symbol
+VORs:LKO:symbol
+VORs:LLC:symbol
+VORs:LMN:symbol
+VORs:LON:symbol
+VORs:LPS:symbol
+VORs:LYH:symbol
+VORs:MLT:symbol
+VORs:MOU:symbol
+VORs:NCH:symbol
+VORs:NLG:symbol
+VORs:NNX:symbol
+VORs:NYB:symbol
+VORs:PLT:symbol
+VORs:POU:symbol
+VORs:QNX:symbol
+VORs:SHK:symbol
+VORs:SHL:symbol
+VORs:SHX:symbol
+VORs:SJG:symbol
+VORs:SNF:symbol
+VORs:SWA:symbol
+VORs:TAN:symbol
+VORs:THA:symbol
+VORs:TRN:symbol
+VORs:WCF:symbol
+VORs:WHA:symbol
+VORs:WHX:symbol
+VORs:WTM:symbol
+VORs:WUQ:symbol
+VORs:WUY:symbol
+VORs:WYN:symbol
+VORs:XGD:symbol
+VORs:XQH:symbol
+VORs:XSH:symbol
+VORs:YIH:symbol
+VORs:YIN:symbol
+VORs:ZAO:symbol
+VORs:ZHJ:symbol
+VORs:ZUH:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:-1
-SHOWLEADER:0
+SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:0
+HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0
+DisplayRotation:0.0
 TAGFAMILY:TAG by BradleyLu
-WINDOWAREA:20.5:105.54166412353516:33.54083251953125:117.44831085205078
-PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY
+WINDOWAREA:17.447173:95.352415:35.332441:131.338781

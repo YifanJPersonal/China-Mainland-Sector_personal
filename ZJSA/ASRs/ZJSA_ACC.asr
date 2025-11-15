@@ -1,70 +1,90 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-
-Runways:ZJHK 海口/美兰 HAIKOU/Meilan 09-27:centerline
-Runways:ZJHK 海口/美兰 HAIKOU/Meilan 10-28:centerline
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGNN:symbol
+Airports:ZGZJ:symbol
 Airports:ZJHK:symbol
-Runways:ZJQH 琼海/博鳌 QIONGHAI/Boao 15-33:centerline
 Airports:ZJQH:symbol
-Runways:ZJSY 三亚/凤凰 SANYA/Phoenix 08-26:centerline
 Airports:ZJSY:symbol
-VORs:BHY:symbol
-VORs:DBA:symbol
-VORs:HUT:symbol
-VORs:MLT:symbol
-VORs:NYB:symbol
-VORs:SYX:symbol
-VORs:WCF:symbol
-NDBs:LH:symbol
-NDBs:AL:symbol
-NDBs:H:symbol
-NDBs:WL:symbol
-Fixes:ALEKI:symbol
-Fixes:BIGRO:symbol
-Fixes:GIVIV:symbol
-Fixes:ISBIG:symbol
-Fixes:LIDLU:symbol
-Fixes:PEGDU:symbol
-Fixes:SIKOU:symbol
 Fixes:72PCA:symbol
 Fixes:ADKUN:symbol
 Fixes:AGPOR:symbol
+Fixes:AGTAP:symbol
 Fixes:AGTEL:symbol
+Fixes:AGTOB:symbol
+Fixes:ALEKI:symbol
 Fixes:ANPIM:symbol
 Fixes:ASSAD:symbol
+Fixes:ASUKU:symbol
 Fixes:ATALA:symbol
+Fixes:BALOV:symbol
+Fixes:BIGEX:symbol
+Fixes:BIGRO:symbol
+Fixes:BINKU:symbol
 Fixes:BUNTA:symbol
 Fixes:DABUB:symbol
+Fixes:DAGBU:symbol
+Fixes:DALRA:symbol
 Fixes:DOBVI:symbol
 Fixes:DOMGO:symbol
 Fixes:DONDA:symbol
 Fixes:DOSTA:symbol
 Fixes:DOSUT:symbol
+Fixes:DUMUV:symbol
 Fixes:EGEMU:symbol
 Fixes:ENSIX:symbol
 Fixes:EPKAL:symbol
 Fixes:EXOTO:symbol
+Fixes:GAMBA:symbol
+Fixes:GIVIV:symbol
 Fixes:GULUN:symbol
+Fixes:HAMIN:symbol
+Fixes:HATIN:symbol
 Fixes:IDLUS:symbol
 Fixes:IDUPU:symbol
+Fixes:IGBAB:symbol
+Fixes:IGPUK:symbol
 Fixes:IKELA:symbol
+Fixes:ISBIG:symbol
+Fixes:ISGEG:symbol
+Fixes:IVPUB:symbol
 Fixes:KAGUK:symbol
+Fixes:KIMOG:symbol
 Fixes:LENKO:symbol
+Fixes:LIDLU:symbol
+Fixes:LOVTA:symbol
+Fixes:MESOX:symbol
 Fixes:MIGUG:symbol
 Fixes:MONBO:symbol
+Fixes:NIKUK:symbol
 Fixes:NONEM:symbol
 Fixes:NUMKU:symbol
+Fixes:ODODU:symbol
+Fixes:OSRIV:symbol
 Fixes:PORAP:symbol
+Fixes:RAGSO:symbol
+Fixes:RIKMO:symbol
+Fixes:RULOR:symbol
 Fixes:RUNEG:symbol
 Fixes:SAGSU:symbol
 Fixes:SAMAS:symbol
+Fixes:SARUG:symbol
 Fixes:SAVNO:symbol
+Fixes:SIKOU:symbol
+Fixes:TOMUD:symbol
 Fixes:UBSIR:symbol
+Fixes:UDUTI:symbol
 Fixes:UPRIS:symbol
 Fixes:URDIN:symbol
+Fixes:UVUNO:symbol
+Fixes:VAPNA:symbol
 Fixes:VEGDO:symbol
+Fixes:VEPAM:symbol
 Fixes:XELOV:symbol
+Fixes:XEREN:symbol
+Fixes:XONUS:symbol
 High airways:A1:line
 High airways:A202:line
 High airways:A206:line
@@ -73,18 +93,22 @@ High airways:J104:line
 High airways:L642:line
 High airways:M771:line
 High airways:N892:line
-High airways:P901:line
 High airways:R200:line
 High airways:R339:line
+High airways:R343:line
+High airways:R474:line
 High airways:V10:line
 High airways:V12:line
 High airways:V13:line
+High airways:V153:line
 High airways:V19:line
 High airways:V20:line
 High airways:V41:line
 High airways:V51:line
 High airways:V571:line
 High airways:W10:line
+High airways:W120:line
+High airways:W159:line
 High airways:W169:line
 High airways:W170:line
 High airways:W171:line
@@ -94,22 +118,123 @@ High airways:W527:line
 High airways:W528:line
 High airways:W552:line
 High airways:W605:line
+High airways:W690:line
+High airways:W691:line
+High airways:W692:line
 High airways:W70:line
 High airways:W71:line
-
-
+NDBs:LH:symbol
+NDBs:WL:symbol
+Runways:ZGNN Wuxu 05-23:centerline
+Runways:ZGNN Wuxu 05-23:extended centerline 1
+Runways:ZGNN Wuxu 05-23:extended centerline 1 left base
+Runways:ZGNN Wuxu 05-23:extended centerline 1 left ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 1 left vectoring
+Runways:ZGNN Wuxu 05-23:extended centerline 1 right base
+Runways:ZGNN Wuxu 05-23:extended centerline 1 right ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 1 right vectoring
+Runways:ZGNN Wuxu 05-23:extended centerline 2
+Runways:ZGNN Wuxu 05-23:extended centerline 2 left base
+Runways:ZGNN Wuxu 05-23:extended centerline 2 left ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 2 left vectoring
+Runways:ZGNN Wuxu 05-23:extended centerline 2 right base
+Runways:ZGNN Wuxu 05-23:extended centerline 2 right ticks
+Runways:ZGNN Wuxu 05-23:extended centerline 2 right vectoring
+Runways:ZGZJ Wuchuan 15-33:centerline
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 left base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 left ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 left vectoring
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 right base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 right ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 1 right vectoring
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 left base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 left ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 left vectoring
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 right base
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 right ticks
+Runways:ZGZJ Wuchuan 15-33:extended centerline 2 right vectoring
+Runways:ZJHK Meilan 09-27:centerline
+Runways:ZJHK Meilan 09-27:extended centerline 1
+Runways:ZJHK Meilan 09-27:extended centerline 1 left base
+Runways:ZJHK Meilan 09-27:extended centerline 1 left ticks
+Runways:ZJHK Meilan 09-27:extended centerline 1 left vectoring
+Runways:ZJHK Meilan 09-27:extended centerline 1 right base
+Runways:ZJHK Meilan 09-27:extended centerline 1 right ticks
+Runways:ZJHK Meilan 09-27:extended centerline 1 right vectoring
+Runways:ZJHK Meilan 09-27:extended centerline 2
+Runways:ZJHK Meilan 09-27:extended centerline 2 left base
+Runways:ZJHK Meilan 09-27:extended centerline 2 left ticks
+Runways:ZJHK Meilan 09-27:extended centerline 2 left vectoring
+Runways:ZJHK Meilan 09-27:extended centerline 2 right base
+Runways:ZJHK Meilan 09-27:extended centerline 2 right ticks
+Runways:ZJHK Meilan 09-27:extended centerline 2 right vectoring
+Runways:ZJHK Meilan 10-28:centerline
+Runways:ZJHK Meilan 10-28:extended centerline 1
+Runways:ZJHK Meilan 10-28:extended centerline 1 left base
+Runways:ZJHK Meilan 10-28:extended centerline 1 left ticks
+Runways:ZJHK Meilan 10-28:extended centerline 1 left vectoring
+Runways:ZJHK Meilan 10-28:extended centerline 1 right base
+Runways:ZJHK Meilan 10-28:extended centerline 1 right ticks
+Runways:ZJHK Meilan 10-28:extended centerline 1 right vectoring
+Runways:ZJHK Meilan 10-28:extended centerline 2
+Runways:ZJHK Meilan 10-28:extended centerline 2 left base
+Runways:ZJHK Meilan 10-28:extended centerline 2 left ticks
+Runways:ZJHK Meilan 10-28:extended centerline 2 left vectoring
+Runways:ZJHK Meilan 10-28:extended centerline 2 right base
+Runways:ZJHK Meilan 10-28:extended centerline 2 right ticks
+Runways:ZJHK Meilan 10-28:extended centerline 2 right vectoring
+Runways:ZJQH Boao 15-33:centerline
+Runways:ZJQH Boao 15-33:extended centerline 1
+Runways:ZJQH Boao 15-33:extended centerline 1 left base
+Runways:ZJQH Boao 15-33:extended centerline 1 left ticks
+Runways:ZJQH Boao 15-33:extended centerline 1 left vectoring
+Runways:ZJQH Boao 15-33:extended centerline 1 right base
+Runways:ZJQH Boao 15-33:extended centerline 1 right ticks
+Runways:ZJQH Boao 15-33:extended centerline 1 right vectoring
+Runways:ZJQH Boao 15-33:extended centerline 2
+Runways:ZJQH Boao 15-33:extended centerline 2 left base
+Runways:ZJQH Boao 15-33:extended centerline 2 left ticks
+Runways:ZJQH Boao 15-33:extended centerline 2 left vectoring
+Runways:ZJQH Boao 15-33:extended centerline 2 right base
+Runways:ZJQH Boao 15-33:extended centerline 2 right ticks
+Runways:ZJQH Boao 15-33:extended centerline 2 right vectoring
+Runways:ZJSY Phoenix 08-26:centerline
+Runways:ZJSY Phoenix 08-26:extended centerline 1
+Runways:ZJSY Phoenix 08-26:extended centerline 1 left base
+Runways:ZJSY Phoenix 08-26:extended centerline 1 left ticks
+Runways:ZJSY Phoenix 08-26:extended centerline 1 left vectoring
+Runways:ZJSY Phoenix 08-26:extended centerline 1 right base
+Runways:ZJSY Phoenix 08-26:extended centerline 1 right ticks
+Runways:ZJSY Phoenix 08-26:extended centerline 1 right vectoring
+Runways:ZJSY Phoenix 08-26:extended centerline 2
+Runways:ZJSY Phoenix 08-26:extended centerline 2 left base
+Runways:ZJSY Phoenix 08-26:extended centerline 2 left ticks
+Runways:ZJSY Phoenix 08-26:extended centerline 2 left vectoring
+Runways:ZJSY Phoenix 08-26:extended centerline 2 right base
+Runways:ZJSY Phoenix 08-26:extended centerline 2 right ticks
+Runways:ZJSY Phoenix 08-26:extended centerline 2 right vectoring
+VORs:BHY:symbol
+VORs:DBA:symbol
+VORs:HUT:symbol
+VORs:MLT:symbol
+VORs:NYB:symbol
+VORs:SYX:symbol
+VORs:WCF:symbol
+VORs:WUQ:symbol
+VORs:WUY:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:-1
-SHOWLEADER:0
+SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:0
+HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0
+DisplayRotation:0.00000
 TAGFAMILY:TAG by BradleyLu
-WINDOWAREA:14.5:107.1897201538086:22.5049991607666:114
-PLUGIN:AirAmaz RenderPlugin:Airport:EMPTY
+WINDOWAREA:12.787935:99.705771:25.205572:124.801431
