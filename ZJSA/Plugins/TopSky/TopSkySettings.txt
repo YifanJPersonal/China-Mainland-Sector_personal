@@ -124,3 +124,15 @@ Maps_Font=EuroScope
 TextNotes_Font=EuroScope
 
 RDF_Mode=-1
+
+HTTP_METAR_Server=https://data.apocfly.com/api/v1
+HTTP_METAR_Page_Prefix=metar?icao=
+HTTP_METAR_Page_Suffix=&raw=true
+HTTP_METAR_Data_Prefix=<pre>
+HTTP_METAR_Data_Suffix=</pre>
+
+HTTP_TAF_Server=https://data.apocfly.com/api/v1
+HTTP_TAF_Page_Prefix=taf?icao=
+HTTP_TAF_Page_Suffix=&raw=true
+HTTP_TAF_Data_Prefix=<pre>
+HTTP_TAF_Data_Suffix=</pre>
