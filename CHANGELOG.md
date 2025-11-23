@@ -4,7 +4,7 @@
 2. 调整.gitignore 及 删除 wechat_support.jpg
 3. 更新2506导航数据
 4. 增加AircraftPerformance、alias、Ip_address，修改*.prf
-5. 删除  .ese、.sct开头的声明，加入Skylite的声明
+5. 删除.ese、.sct开头的声明
 6. 修改Profile
 7. 修改Ip_address
 8. 修改General
@@ -27,3 +27,6 @@
 25. 更新ASR，以适配跑道显示
 26. 将README图片变为网络位置
 27. 新增*_GMC.prf，方便上线
+28. 更新README
+29. 更新新版Topsky(#7)
+30. 更新Topsky报文源(#9)
