@@ -46,3 +46,10 @@ Settings	SettingsfileVCCS	/../../Data/Settings/VCCS.txt
 Settings	myipaddr	/../../Data/Settings/Servers.txt
 RecentFiles	Recent1	/../ASRs/ZSSS_GMC.asr
 RecentFiles	Recent2	/../ASRs/ZSHA_ACC.asr
+
+LastSession	realname	3657
+LastSession	certificate	3657
+LastSession	password	Jyf090213
+LastSession	rating	10
+LastSession	tovatsim	1
+LastSession	server	Skydream
